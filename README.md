@@ -2,6 +2,9 @@
 
 A Model Context Protocol (MCP) server that exposes book management tools for AI assistants. This server provides a bridge between AI applications and a .NET Books API, enabling seamless book collection management through standardized MCP tool calls.
 
+The .NET Book API backend that this MCP server interacts with is available at: [https://github.com/0x1D-1983/book-api](https://github.com/0x1D-1983/book-api).
+
+
 ## Features
 
 - **MCP Protocol Support**: Implements Model Context Protocol for tool discovery and execution
